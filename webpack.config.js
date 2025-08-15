@@ -13,7 +13,7 @@ module.exports = {
     rules: [
       {
         // Apply Babel loader to JavaScript files
-        test: /\.js$/, // Fixed regex to correctly identify JavaScript files
+        test: \.js$, // Fixed regex to correctly identify JavaScript files
         // Exclude node_modules directory
         exclude: /node_modules/, 
         use: {
