@@ -10,4 +10,8 @@ Bitte lesen Sie die folgenden Richtlinien, um einen Beitrag zu leisten:
 4. **Pushen Sie den Branch:** `git push origin feature/mein-neues-feature`
 5. **Öffnen Sie einen Pull Request** zur Überprüfung.
 
+### Code-Stil Richtlinien
+
+Bitte stellen Sie sicher, dass Ihr Code stilistisch konsistent ist und den Projektstandards folgt. Verwenden Sie dazu den Linter, der im Projekt konfiguriert ist.
+
 Wir freuen uns auf Ihre Beiträge!
