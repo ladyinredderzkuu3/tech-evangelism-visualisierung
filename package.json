@@ -20,4 +20,5 @@
     "@babel/preset-env": "^7.15.0",
     "@babel/preset-react": "^7.14.5"
   }
+  // This package.json file contains metadata about the project and its dependencies.
 }
