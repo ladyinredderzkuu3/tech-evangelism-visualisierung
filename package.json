@@ -1,0 +1,23 @@
+{
+  "name": "tech-evangelism-visualisierung",
+  "version": "1.0.0",
+  "description": "Ein interaktives Tool zur Visualisierung von Technologien und deren Einfluss auf verschiedene Lebensbereiche.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "webpack serve --open",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0",
+    "webpack-dev-server": "^3.11.2",
+    "babel-loader": "^8.1.0",
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/preset-react": "^7.14.5"
+  }
+}
